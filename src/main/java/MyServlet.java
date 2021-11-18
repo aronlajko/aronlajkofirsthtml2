@@ -29,9 +29,9 @@ public class MyServlet extends HttpServlet {
                 "\n" +
                 "is a link to another nifty site\n" +
                 "\n" +
-                "<H1>This is a Header</H1>\n" +
+                "<H1>Lajko Aron</H1>\n" +
                 "\n" +
-                "<H2>This is a Medium Header</H2>\n" +
+                "<H2>Meg nem olyan jo mint a sima  lajkoaron.com </H2>\n" +
                 "\n" +
                 "Send me mail at <a href=\"mailto:support@yourcompany.com\">\n" +
                 "\n" +
