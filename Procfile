@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar ./webapp-runner-9.0.24.1.jar ${WEBAPP_RUNNER_OPTS} --port $PORT ./build/libs/http://localhost:8080/aronlajkofirsthtml/?C=S&O=A
+web: java $JAVA_OPTS -jar ./webapp-runner-9.0.24.1.jar ${WEBAPP_RUNNER_OPTS} --port $PORT ./build/libs/aronlajkofirsthtml-1.0-SNAPSHOT.war
